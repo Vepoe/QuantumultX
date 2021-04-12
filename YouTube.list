@@ -1,3 +1,5 @@
+# Streaming Media
+# (Podcast)
 # > YouTube
 USER-AGENT,com.google.ios.youtube*,Streaming
 USER-AGENT,YouTube*,Streaming
