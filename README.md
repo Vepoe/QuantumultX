@@ -1,1 +1,0 @@
-# quantumult-x-rules
