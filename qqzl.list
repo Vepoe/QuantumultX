@@ -1,3 +1,46 @@
+# Unbreak
+# > General
+USER-AGENT,archero*,全球直连
+USER-AGENT,coffeecorp*,全球直连
+USER-AGENT,Coffee%20Corp*,全球直连
+USER-AGENT,restaurant-mobile*,全球直连
+DOMAIN,app.adjust.com,全球直连
+DOMAIN,bdtj.tagtic.cn,全球直连
+# > Alibaba
+DOMAIN,log.mmstat.com,全球直连
+DOMAIN,sycm.mmstat.com,全球直连
+# > Google
+DOMAIN-SUFFIX,blog.google,全球直连
+DOMAIN-SUFFIX,googletraveladservices.com,全球直连
+DOMAIN,clientservices.googleapis.com,全球直连
+DOMAIN,dl.google.com,全球直连
+DOMAIN,dl.l.google.com,全球直连
+DOMAIN,update.googleapis.com,全球直连
+DOMAIN,translate.googleapis.com,全球直连
+# >> Google Fonts API
+DOMAIN,fonts.googleapis.com,全球直连
+DOMAIN,fonts.gstatic.com,全球直连
+# >> Firebase Cloud Messaging
+DOMAIN,mtalk.google.com,全球直连
+DOMAIN,alt1-mtalk.google.com,全球直连
+DOMAIN,alt2-mtalk.google.com,全球直连
+DOMAIN,alt3-mtalk.google.com,全球直连
+DOMAIN,alt4-mtalk.google.com,全球直连
+DOMAIN,alt5-mtalk.google.com,全球直连
+DOMAIN,alt6-mtalk.google.com,全球直连
+DOMAIN,alt7-mtalk.google.com,全球直连
+DOMAIN,alt8-mtalk.google.com,全球直连
+# >> Paramount+
+DOMAIN,pubads.g.doubleclick.net,全球直连
+# > Tencent
+DOMAIN,fairplay.l.qq.com,全球直连
+DOMAIN,livew.l.qq.com,全球直连
+DOMAIN,vd.l.qq.com,全球直连
+# > Strava
+DOMAIN,analytics.strava.com,全球直连
+# > Umeng
+DOMAIN,msg.umeng.com,全球直连
+DOMAIN,msg.umengcloud.com,全球直连
 DOMAIN-KEYWORD,aria2,全球直连
 DOMAIN-KEYWORD,xunlei,全球直连
 DOMAIN-KEYWORD,yunpan,全球直连
