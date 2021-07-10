@@ -1,6 +1,6 @@
 # > ByteDance
-DOMAIN-SUFFIX,feiliao.com,DIRECT
-DOMAIN-SUFFIX,pstatp.com,DIRECT
-DOMAIN-SUFFIX,snssdk.com,DIRECT
-DOMAIN-SUFFIX,iesdouyin.com,DIRECT
-DOMAIN-SUFFIX,toutiao.com,DIRECT
+DOMAIN-SUFFIX,feiliao.com,DouYin
+DOMAIN-SUFFIX,pstatp.com,DouYin
+DOMAIN-SUFFIX,snssdk.com,DouYin
+DOMAIN-SUFFIX,iesdouyin.com,DouYin
+DOMAIN-SUFFIX,toutiao.com,DouYin
