@@ -3,7 +3,7 @@
 USER-AGENT,archero*,全球直连
 USER-AGENT,coffeecorp*,全球直连
 USER-AGENT,Coffee%20Corp*,全球直连
-USER-AGENT,restaurant-mobile*, I 全球直连
+USER-AGENT,restaurant-mobile*,全球直连
 DOMAIN,app.adjust.com,全球直连
 DOMAIN,bdtj.tagtic.cn,全球直连
 # > Alibaba
@@ -340,7 +340,7 @@ DOMAIN-SUFFIX,zhihuishu.com,全球直连
 DOMAIN-SUFFIX,zhimg.com,全球直连
 DOMAIN-SUFFIX,zhuihd.com,全球直连
 DOMAIN,download.jetbrains.com,全球直连
-DOMAIN,images-cn.ssl-images-amazon.com,全球直连k
+DOMAIN,images-cn.ssl-images-amazon.com,全球直连
 IP-CIDR,192.168.0.0/16,全球直连,no-resolve
 IP-CIDR,10.0.0.0/8,全球直连,no-resolve
 IP-CIDR,172.16.0.0/12,全球直连,no-resolve
