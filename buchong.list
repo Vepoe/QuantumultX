@@ -1,22 +1,22 @@
 # >apple
-DOMAIN,gspe1-ssl.ls.apple.com // 必要，但会导致「地图」使用「TOMTOM」版本数据,苹果服务
-USER-AGENT,AppleNews*,苹果服务
-USER-AGENT,com.apple.news*,苹果服务
-DOMAIN-SUFFIX,apple.news,苹果服务
-DOMAIN,news-assets.apple.com,苹果服务
-DOMAIN,news-client.apple.com,苹果服务
-DOMAIN,news-edge.apple.com,苹果服务
-DOMAIN,news-events.apple.com,苹果服务
-DOMAIN,apple.comscoreresearch.com,苹果服务
-DOMAIN-SUFFIX,icloud-content.com,苹果服务
-IP-CIDR,17.0.0.0/8,苹果服务,no-resolve
-IP-CIDR,63.92.224.0/19,苹果服务,no-resolve
-IP-CIDR,65.199.22.0/23,苹果服务,no-resolve
-IP-CIDR,139.178.128.0/18,苹果服务,no-resolve
-IP-CIDR,144.178.0.0/19,苹果服务,no-resolve
-IP-CIDR,192.35.50.0/24,苹果服务,no-resolve
-IP-CIDR,198.183.17.0/24,苹果服务,no-resolve
-IP-CIDR,205.180.175.0/24,苹果服务,no-resolve
+DOMAIN,gspe1-ssl.ls.apple.com // 必要，但会导致「地图」使用「TOMTOM」版本数据,DIRECT
+USER-AGENT,AppleNews*,DIRECT
+USER-AGENT,com.apple.news*,DIRECT
+DOMAIN-SUFFIX,apple.news,DIRECT
+DOMAIN,news-assets.apple.com,DIRECT
+DOMAIN,news-client.apple.com,DIRECT
+DOMAIN,news-edge.apple.com,DIRECT
+DOMAIN,news-events.apple.com,DIRECT
+DOMAIN,apple.comscoreresearch.com,DIRECT
+DOMAIN-SUFFIX,icloud-content.com,DIRECT
+IP-CIDR,17.0.0.0/8,DIRECT,no-resolve
+IP-CIDR,63.92.224.0/19,DIRECT,no-resolve
+IP-CIDR,65.199.22.0/23,DIRECT,no-resolve
+IP-CIDR,139.178.128.0/18,DIRECT,no-resolve
+IP-CIDR,144.178.0.0/19,DIRECT,no-resolve
+IP-CIDR,192.35.50.0/24,DIRECT,no-resolve
+IP-CIDR,198.183.17.0/24,DIRECT,no-resolve
+IP-CIDR,205.180.175.0/24,DIRECT,no-resolve
 # > ByteDance
 HOST-KEYWORD,douyin,DIRECT
 
