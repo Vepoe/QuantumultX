@@ -1,0 +1,5 @@
+# > bilibili
+DOMAIN-SUFFIX,biliapi.net,PROXY
+DOMAIN-SUFFIX,bilibili.com,PROXY
+DOMAIN-SUFFIX,bilivideo.com,PROXY
+DOMAIN-SUFFIX,hdslb.com,PROXY
