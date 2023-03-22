@@ -1,0 +1,12 @@
+# > New Bing
+DOMAIN-SUFFIX,bing.com,NewBing
+DOMAIN,www.bing.com,NewBing
+DOMAIN,r.bing.com,NewBing
+DOMAIN,cn.bing.com,NewBing
+DOMAIN,edgeservices.bing.com,NewBing
+DOMAIN,login.microsoftonline.com,NewBing
+DOMAIN,login.live.com,NewBing
+DOMAIN,logincdn.msauth.net,NewBing
+DOMAIN,acctcdn.msauth.net,NewBing
+DOMAIN,acctcdn.msftauth.net,NewBing
+DOMAIN,lgincdnvzeuno.azureedge.net,NewBing
