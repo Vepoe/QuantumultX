@@ -1,0 +1,12 @@
+DOMAIN-SUFFIX,bard.google.com,Gmini
+DOMAIN-SUFFIX,gemini.google.com,Gmini
+DOMAIN-SUFFIX,deepmind.com,Gmini
+DOMAIN-SUFFIX,deepmind.google,Gmini
+DOMAIN-SUFFIX,generativelanguage.googleapis.com,Gmini
+DOMAIN-SUFFIX,geller-pa.googleapis.com,Gmini
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,Gmini
+DOMAIN,ai.google.dev,Gmini
+DOMAIN-SUFFIX,makersuite.google.com,Gmini
+DOMAIN,alkalicore-pa.clients6.google.com,Gmini
+DOMAIN,alkalimakersuite-pa.clients6.google.com,Gmini
+DOMAIN-SUFFIX,generativeai.google,Gmini
