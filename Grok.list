@@ -1,3 +1,5 @@
 DOMAIN-SUFFIX,x.ai.com,ISP静态IP,force-remote-dns
 DOMAIN-SUFFIX,grok.x.com,ISP静态IP,force-remote-dns
 DOMAIN-SUFFIX,x.com,ISP静态IP,force-remote-dns
+DOMAIN-KEYWORD,twitter,ISP静态IP,force-remote-dns
+DOMAIN-KEYWORD,periscope,ISP静态IP,force-remote-dns
