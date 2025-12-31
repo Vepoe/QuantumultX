@@ -1,5 +1,5 @@
-DOMAIN-SUFFIX,x.ai.com,AI最终落地,force-remote-dns
-DOMAIN-SUFFIX,grok.x.com,AI最终落地,force-remote-dns
-DOMAIN-SUFFIX,x.com,AI最终落地,force-remote-dns
-DOMAIN-KEYWORD,twitter,AI最终落地,force-remote-dns
-DOMAIN-KEYWORD,periscope,AI最终落地,force-remote-dns
+DOMAIN-SUFFIX,x.ai.com,
+DOMAIN-SUFFIX,grok.x.com,
+DOMAIN-SUFFIX,x.com,
+DOMAIN-KEYWORD,twitter,
+DOMAIN-KEYWORD,periscope,
