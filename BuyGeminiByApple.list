@@ -1,0 +1,4 @@
+# 强制 Apple 支付验证走住宅 IP，确保环境一致性
+host-suffix, apple.com,PROXY
+host-suffix, itunes.apple.com,PROXY
+host-suffix, p47-buy.itunes.apple.com,PROXY
