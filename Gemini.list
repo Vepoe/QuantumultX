@@ -1,16 +1,16 @@
-DOMAIN-SUFFIX,bard.google.com,PROXY
-DOMAIN-SUFFIX,gemini.google.com,PROXY
-DOMAIN-SUFFIX,deepmind.com,PROXY
-DOMAIN-SUFFIX,deepmind.google,PROXY
-DOMAIN-SUFFIX,generativelanguage.googleapis.com,PROXY
-DOMAIN-SUFFIX,geller-pa.googleapis.com,PROXY
-DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,PROXY
-DOMAIN,ai.google.dev,PROXY
-DOMAIN-SUFFIX,makersuite.google.com,PROXY
-DOMAIN,alkalicore-pa.clients6.google.com,PROXY
-DOMAIN,alkalimakersuite-pa.clients6.google.com,PROXY
-DOMAIN-SUFFIX,generativeai.google,PROXY
-host-suffix, one.google.com,PROXY
-host-suffix, play.google.com,PROXY
-host-suffix, checkout.google.com,PROXY
-host-suffix, payments.google.com,PROXY
+DOMAIN-SUFFIX,bard.google.com,🤖 AI-Special
+DOMAIN-SUFFIX,gemini.google.com,🤖 AI-Special
+DOMAIN-SUFFIX,deepmind.com,🤖 AI-Special
+DOMAIN-SUFFIX,deepmind.google,🤖 AI-Special
+DOMAIN-SUFFIX,generativelanguage.googleapis.com,🤖 AI-Special
+DOMAIN-SUFFIX,geller-pa.googleapis.com,🤖 AI-Special
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,🤖 AI-Special
+DOMAIN,ai.google.dev,🤖 AI-Special
+DOMAIN-SUFFIX,makersuite.google.com,🤖 AI-Special
+DOMAIN,alkalicore-pa.clients6.google.com,🤖 AI-Special
+DOMAIN,alkalimakersuite-pa.clients6.google.com,🤖 AI-Special
+DOMAIN-SUFFIX,generativeai.google,🤖 AI-Special
+host-suffix, one.google.com,🤖 AI-Special
+host-suffix, play.google.com,🤖 AI-Special
+host-suffix, checkout.google.com,🤖 AI-Special
+host-suffix, payments.google.com,🤖 AI-Special
