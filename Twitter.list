@@ -1,0 +1,17 @@
+# X (Twitter) 相关分流规则
+DOMAIN-SUFFIX, x.com, Twitter
+DOMAIN-SUFFIX, twitter.com, Twitter
+DOMAIN-SUFFIX, t.co, Twitter
+DOMAIN-SUFFIX, x.ai, Twitter
+DOMAIN-SUFFIX, grok.com, Twitter
+DOMAIN-SUFFIX, xai.com, Twitter
+DOMAIN-SUFFIX, twimg.com, Twitter
+DOMAIN-SUFFIX, twitter.com.akadns.net, Twitter
+DOMAIN-SUFFIX, periscope.tv, Twitter
+DOMAIN-SUFFIX, pscp.tv, Twitter
+# Grok (ai) 相关分流规则
+DOMAIN-SUFFIX, x.ai, Twitter
+DOMAIN-SUFFIX, grok.com, Twitter
+DOMAIN-SUFFIX, featureassets.org, Twitter
+DOMAIN-SUFFIX, xai.chronosphere.io, Twitter
+IP-CIDR, 17.253.4.125/32, X, no-resolve
