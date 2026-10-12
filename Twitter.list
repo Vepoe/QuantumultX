@@ -14,4 +14,4 @@ DOMAIN-SUFFIX, x.ai, Twitter
 DOMAIN-SUFFIX, grok.com, Twitter
 DOMAIN-SUFFIX, featureassets.org, Twitter
 DOMAIN-SUFFIX, xai.chronosphere.io, Twitter
-IP-CIDR, 17.253.4.125/32, X, no-resolve
+IP-CIDR, 17.253.4.125/32, Twitter, no-resolve
