@@ -1,4 +1,4 @@
-# >apple
+payload:
   # GitHub520 hosts 域名直连（放在代理规则/MATCH之前）
   - DOMAIN,alive.github.com,DIRECT
   - DOMAIN,api.github.com,DIRECT
